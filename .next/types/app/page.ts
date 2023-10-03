@@ -1,4 +1,4 @@
-// File: /Users/dewminaimalsha/Desktop/Development/car_showcase/Auto-Rentals/app/page.tsx
+// File: /Users/dewminaimalsha/Documents/GitHub/Auto-Rentals/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

@@ -11,6 +11,18 @@ Auto Rentals revolutionizes the car rental experience by offering a user-centric
 - **Tailwind CSS**: Utilizing Tailwind CSS to accelerate UI development, ensuring a responsive and adaptable design across all devices.
 - **REST API Connection**: Harnessing a REST API for dynamic real-time car data fetching, showcasing up-to-the-minute availability and details.
 
+## Quick Look
+![Screenshot 2023-11-09 at 12 28 57 PM](https://github.com/RoshanDewmina/Auto-Rentals/assets/107935194/52be863a-d689-42d2-9dae-4a5c2832f1f0)
+
+
+
+## How it works
+  
+
+https://github.com/RoshanDewmina/Auto-Rentals/assets/107935194/a177bc60-5c3d-4663-9914-d546b8e529eb
+
+
+
 ## Getting Started
 
 To run this project locally:
